@@ -1,0 +1,2 @@
+# myfirstpipeline
+Jenkins first pipeline
